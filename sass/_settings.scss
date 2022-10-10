@@ -1,3 +1,13 @@
 :root {
   --accent-color: rgb(41, 104, 109);
+
+  /* @link https://utopia.fyi/type/calculator?c=360,16,1.067,1140,16,1.25,5,2,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l */
+  --step--2: clamp(0.64rem, calc(0.99rem + -0.49vw), 0.88rem);
+  --step--1: clamp(0.80rem, calc(1.00rem + -0.28vw), 0.94rem);
+  --step-0: clamp(1.00rem, calc(1.00rem + 0.00vw), 1.00rem);
+  --step-1: clamp(1.07rem, calc(0.98rem + 0.38vw), 1.25rem);
+  --step-2: clamp(1.14rem, calc(0.94rem + 0.87vw), 1.56rem);
+  --step-3: clamp(1.22rem, calc(0.87rem + 1.51vw), 1.95rem);
+  --step-4: clamp(1.30rem, calc(0.77rem + 2.35vw), 2.44rem);
+  --step-5: clamp(1.38rem, calc(0.61rem + 3.42vw), 3.05rem);
 }
