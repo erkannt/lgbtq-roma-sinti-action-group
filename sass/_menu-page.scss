@@ -1,0 +1,31 @@
+.menu-page-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.menu-page-header__title {
+  font-size: var(--step-4);
+	line-height: 1;
+}
+
+.menu-page__nav {
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  li {
+    margin-bottom: 1rem;
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  a:hover {
+    border-bottom: 2px solid var(--accent-color);
+  }
+}

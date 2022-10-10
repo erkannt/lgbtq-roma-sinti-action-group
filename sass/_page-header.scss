@@ -3,7 +3,7 @@
   justify-content: space-between;
 }
 
-.page-header__nav ul {
+.page-header nav ul {
   list-style: none;
   padding-left: 0;
   display: flex;
@@ -11,11 +11,25 @@
   flex-wrap: wrap;
 }
 
-.page-header__nav a {
+.page-header nav a {
   text-decoration: none;
   font-weight: bold;
 }
 
-.page-header__nav a:hover {
+.page-header nav a:hover {
   border-bottom: 2px solid var(--accent-color);
+}
+
+.page-header__nav--wide {
+  display: none;
+}
+
+@media screen and (min-width: 72ch) {
+  .page-header__nav--wide {
+    display: block;
+  }
+
+  .page-header__nav {
+    display: none;
+  }
 }

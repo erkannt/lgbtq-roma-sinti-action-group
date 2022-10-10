@@ -1,4 +1,5 @@
 +++
+template = "menu-page.html"
 +++
 - [Home](/)
 - [What We Do](/what-we-do)
