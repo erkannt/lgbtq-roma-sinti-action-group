@@ -1,3 +1,5 @@
+$accent-color: rgb(41, 104, 109);
+
 html {
   max-width: 70ch;
   padding: 3em 1em;
@@ -17,11 +19,11 @@ p a {
 
 a:link,
 a:visited {
-  color: rgb(41, 104, 109);
+  color: $accent-color;
 
   &:hover,
   &:active {
-    color: rgb(41, 104, 109);
+    color: $accent-color;
   }
 }
 
@@ -49,7 +51,7 @@ main {
 }
 
 .page-header__nav a:hover {
-  border-bottom: 2px solid rgb(41, 104, 109);
+  border-bottom: 2px solid $accent-color;
 }
 
 .page-footer {
