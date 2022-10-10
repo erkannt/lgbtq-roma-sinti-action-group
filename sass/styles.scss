@@ -6,3 +6,18 @@ html {
   font-size: 1.25em;
   font-family: sans-serif;
 }
+
+.page-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.page-header__nav {
+  ul {
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+}

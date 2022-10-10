@@ -4,19 +4,19 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>{% if page.title %} {{ page.title }} | {% endif %} National Action Group for LGBT+ Traveller and Roma Rights</title>
+    <title>
+      {% if page.title %} {{ page.title }} | {% endif %} National Action Group
+      for LGBT+ Traveller and Roma Rights
+    </title>
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
-    <header>
-      <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/about">About Us</a></li>
-          <li><a href="/what-we-do">What We Do</a></li>
-          <li><a href="/get-support">Get Information & Support</a></li>
-          <li><a href="/contact">Contact</a></li>
-        </ul>
+    <header class="page-header">
+      <a href="/">
+        <img src="/logo.png" alt="" />
+      </a>
+      <nav class="page-header__nav">
+        {% set nav = get_page(path="navigation.md") %} {{ nav.content | safe }}
       </nav>
     </header>
 
