@@ -1,0 +1,30 @@
+html {
+  max-width: 70ch;
+  padding: 3em 1em;
+  margin: auto;
+  line-height: 1.75;
+  font-size: 1.25em;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+p a {
+  text-decoration: underline;
+}
+
+a:link,
+a:visited {
+  color: var(--accent-color);
+
+  &:hover,
+  &:active {
+    color: var(--accent-color);
+  }
+}
+
+main {
+  margin-bottom: 3rem;
+}

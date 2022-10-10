@@ -1,0 +1,21 @@
+.page-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.page-header__nav ul {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.page-header__nav a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.page-header__nav a:hover {
+  border-bottom: 2px solid var(--accent-color);
+}
