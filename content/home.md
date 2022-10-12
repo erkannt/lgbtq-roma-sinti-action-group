@@ -10,7 +10,7 @@ LGBT+ organisations along with regional representation and LGBT+ Traveller
 reps. The National Action Group works from Human Rights and Community
 Development principles.
 
-Aims of the National Action Group for LGBT+ Traveller and Roma Rights:
+## Aims of the National Action Group for LGBT+ Traveller and Roma Rights:
 
 - Promote and support the inclusion of LGBT+ Travellers and Roma needs and issues at local level
 - Promote and support the inclusion of LGBT+ Travellers and Roma needs and issues within Traveller and Roma services an d organisations, as well as LGBT+ service and organisations.
