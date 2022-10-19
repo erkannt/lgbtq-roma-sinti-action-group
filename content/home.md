@@ -1,7 +1,6 @@
 +++
 +++
 
-# National Action Group for LGBT+ Traveller and Roma Rights
 
 The National Action Group for LGBT+ Traveller and Roma Rights was formed in 2016, to advance greater awareness, understanding and inclusion of LGBT+ Travellers and Roma.
 

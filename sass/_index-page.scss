@@ -1,0 +1,19 @@
+@media screen and (min-width: 72ch) {
+  .index-header {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+  }
+}
+
+.index-header__logo {
+  display: block;
+  max-width: 287px;
+  max-height: 160px;
+  width: auto;
+  height: auto;
+}
+
+.index-header__title {
+  font-size: var(--step-3);
+}

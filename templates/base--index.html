@@ -13,9 +13,6 @@
 
   <body>
     <header class="page-header">
-      <a href="/">
-        <img class="page-header__logo" src="/logo.png" alt="" />
-      </a>
       <nav class="page-header__nav--wide">
         {% set nav = get_page(path="menu.md") %} {{ nav.content | safe }}
       </nav>
