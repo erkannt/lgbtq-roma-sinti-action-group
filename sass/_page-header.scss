@@ -24,6 +24,17 @@
   display: none;
 }
 
+.page-header__nav--wide a{
+  padding: 0.5rem;
+}
+
+.page-header__nav--wide li:nth-child(2) a{
+  background-color: var(--accent-color);
+  color: var(--white-color);
+  border-radius: 6px;
+}
+
+
 @media screen and (min-width: 72ch) {
   .page-header__nav--wide {
     display: block;
