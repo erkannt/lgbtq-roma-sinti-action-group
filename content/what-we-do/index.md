@@ -16,6 +16,10 @@ See our [Get Information & Support page](/get-support).
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Eu mi bibendum neque egestas congue. Mi quis hendrerit dolor magna eget est lorem. Sed sed risus pretium quam vulputate dignissim suspendisse. In dictum non consectetur a erat nam. Nisl rhoncus mattis rhoncus urna. Risus feugiat in ante metus dictum at tempor commodo. Elementum integer enim neque volutpat.
 
+## Research
+
+See our [Peer Research](/what-we-do/research)
+
 ### How to get involved
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet dictum sit amet justo donec enim diam vulputate. Pharetra magna ac placerat vestibulum lectus mauris ultrices eros in.
