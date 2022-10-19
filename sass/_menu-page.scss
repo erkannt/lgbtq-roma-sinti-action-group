@@ -1,11 +1,11 @@
 .menu-page-header {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   margin-bottom: 3rem;
 }
 
 .menu-page-header__title {
+  margin-left: 2rem;
   font-size: var(--step-4);
 	line-height: 1;
 }
@@ -35,4 +35,17 @@
   background-color: var(--accent-color);
   color: var(--white-color);
   border-radius: 6px;
+}
+
+.menu-page__nav li:last-child {
+  a:link,
+  a:visited {
+    color: var(--green-color);
+
+    &:hover,
+    &:active {
+      color: var(--green-color);
+      border-bottom: 2px solid var(--green-color);
+    }
+  }
 }

@@ -31,16 +31,28 @@
   display: none;
 }
 
-.page-header__nav--wide a{
+.page-header__nav--wide a {
   padding: 0.5rem;
 }
 
-.page-header__nav--wide li:nth-child(2) a{
+.page-header__nav--wide li:nth-child(2) a {
   background-color: var(--accent-color);
   color: var(--white-color);
   border-radius: 6px;
 }
 
+.page-header__nav--wide li:last-child {
+  a:link,
+  a:visited {
+    color: var(--green-color);
+
+    &:hover,
+    &:active {
+      color: var(--green-color);
+      border-bottom: 2px solid var(--green-color);
+    }
+  }
+}
 
 @media screen and (min-width: 72ch) {
   .page-header__nav--wide {
