@@ -5,12 +5,13 @@
 ## We strive 
 #### to empower, support and celebrate Lesbian, Gay, Bisexual, Transgender, Intersex and Queer (LGBTI+) Traveller and Roma and their families.
 
-![](pride-2022.jpg)
+<img src="pride-2022.jpg" width=800/>
+
 [Find out more](/about)
 
 ## About us
 
-The National Action Group for LGBTI+ Traveller & Roma Rights is a colletive that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and LGBT+, Traveller and Roma organisations and services.
+The National Action Group for LGBTI+ Traveller & Roma Rights is a colletive that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and LGBT+ and Traveller & Roma organisations and services.
 
 [Learn more](/about)
 
@@ -41,10 +42,6 @@ Send an email to [ponke.danker@exchangehouse.ie](mailto:ponke.danker@exchangehou
 
 ## Our Sponsors
 
-![](dcediy-logo.png) 
+<img src="dcediy-logo.png" width=50%/>
 
-![](iherc-logo.png)
-
-
-
-[def]: pride-2022.jpg
+<img src="iherc-logo.png" width=50%/>
