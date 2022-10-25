@@ -5,7 +5,6 @@
 ## We strive 
 #### to empower, support and celebrate Lesbian, Gay, Bisexual, Transgender, Intersex and Queer (LGBTI+) Traveller and Roma and their families.
 
-
 ![](pride-2022.jpg)
 
 ## News & Events
@@ -32,5 +31,4 @@ Send an email to [ponke.danker@exchangehouse.ie](mailto:ponke.danker@exchangehou
 
 
 
-[def]: pride-2022-title.jpg
-[def2]: pride-2022-title.jpg
+[def]: pride-2022.jpg
