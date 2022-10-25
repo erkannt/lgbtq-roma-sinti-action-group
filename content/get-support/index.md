@@ -2,7 +2,7 @@
 title = "Get Information and Support"
 +++
 
-![](you-are-not-alone.gif)
+<img src="you-are-not-alone.gif" width=800>
 
 # Get Information & Support
 
