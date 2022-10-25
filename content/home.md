@@ -2,10 +2,7 @@
 +++
 
 
-## We strive 
-#### to empower, support and celebrate Lesbian, Gay, Bisexual, Transgender, Intersex and Queer (LGBTI+) Traveller and Roma and their families.
-
-<img src="pride-2022.jpg" width=800/>
+<img src="title-image.jpg" width=800/>
 
 [Find out more](/about)
 
