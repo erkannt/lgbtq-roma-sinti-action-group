@@ -4,6 +4,8 @@ title = "About Us"
 
 <img src="travellers-can-be.png" width=800/>
 
+# About us
+
 ## Our Vision and Mission
 
 The National Action Group for LGBTI+ Traveller & Roma Rights is a colletive that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and from LGBT+ and Traveller & Roma organisations and services.
