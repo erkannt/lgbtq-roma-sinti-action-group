@@ -2,18 +2,22 @@
 title = "Contact Us"
 +++
 
-# Contact Us
+# Contact us
 
-<address>
-National Action Group for LGBT+ Traveller and Roma Rights
+##### National Action Group for LGBTI+ Traveller & Roma Rights
 
-c/o Exchange House Ireland National Travellers Service
+**Our Key Worker**
 
-61 Great Strand Street | Dublin 1 | D01 WC97 | Ireland
+Ponke Danker (she/her)
 
-Web: www.exchangehouse.ie
+<img src="ponke.JPG" width=320/>
 
-t: 01 524 0178 / 087 155 8832
+**Call us**
 
-e: [ponke.danker@exchangehouse.ie](mailto:ponke.danker@exchangehouse.ie)
-</address>
+Office: +353 1 524 0178
+
+Mobile: +353 87 155 8832
+
+**Email us** 
+
+[ponke.danker@exchangehouse.ie](mailto:ponke.danker@exchangehouse.ie)
