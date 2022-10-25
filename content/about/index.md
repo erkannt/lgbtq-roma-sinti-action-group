@@ -2,19 +2,61 @@
 title = "About Us"
 +++
 
-Community Pride, Family Pride, LGBTQ+ Pride, Traveller & Roma Pride
+<img src="travellers-can-be.png" width=800/>
 
 ## Our Vision and Mission
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget nunc lobortis mattis aliquam faucibus purus in. Sed egestas egestas fringilla phasellus. In est ante in nibh mauris cursus mattis. Dapibus ultrices in iaculis nunc sed augue lacus viverra. Aliquam purus sit amet luctus venenatis. In nulla posuere sollicitudin aliquam. Suspendisse interdum consectetur libero id faucibus nisl tincidunt. Hac habitasse platea dictumst quisque. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus. Nibh sit amet commodo nulla facilisi. Magna eget est lorem ipsum dolor sit amet consectetur. Ornare arcu odio ut sem nulla pharetra. Gravida cum sociis natoque penatibus et magnis. Sed vulputate odio ut enim blandit volutpat maecenas. Lacus luctus accumsan tortor posuere. Duis convallis convallis tellus id interdum velit laoreet. Eget duis at tellus at urna condimentum mattis pellentesque. Amet facilisis magna etiam tempor orci. Curabitur gravida arcu ac tortor.
+The National Action Group for LGBTI+ Traveller & Roma Rights is a colletive that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and from LGBT+ and Traveller & Roma organisations and services.
 
-Curabitur vitae nunc sed velit dignissim sodales ut. Augue ut lectus arcu bibendum. Turpis egestas maecenas pharetra convallis posuere morbi. Duis at consectetur lorem donec massa sapien. Morbi tristique senectus et netus et malesuada fames ac turpis. Eu non diam phasellus vestibulum lorem. Tincidunt eget nullam non nisi est sit amet facilisis. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Consectetur a erat nam at lectus urna duis convallis. Suscipit adipiscing bibendum est ultricies integer. Nec tincidunt praesent semper feugiat. Elementum nisi quis eleifend quam adipiscing vitae. Dignissim enim sit amet venenatis urna cursus.
+## What is *intersectionality*
 
-## Members & Team
+We inform and promote awareness for the intersectional experience of LGBTI+ Traveller & Roma. *Intersectionality* refers to the fact that multiple affiliation with marginalised groups lead to an experience of overlapping discrimination and prejudice. For example, an LGBTI+ Traveller or Roma may be discriminated by the LGBTI+ community for being a Traveller and by the Traveller community for being LGBTI+ and by the wider society for both simultaneously and ever so often experiences discrimination more frequently. 
+
+## Governance & Membership
+
+The **Steering Committee** consists of representatives from the LGBTI+ Traveller & Roma community, from national, regional and local Traveller & Roma organisations and services and LGBTI+ organisations and services.
+
+**Membership** consists of 
+- LGBTI+ Traveller & Roma individuals
+- Traveller individuals
+- Traveller organisations and services
+- LGBTI+ organisations and services
+- Other Human Rights related organisations and services.
+
+If you are interested in becoming a member, please [contact us](mailto:ponke.danker@exchangehouse.ie).
+
+If you are an individual not affiliated with the LGBTI+ Traveller & Roma community, the Traveller community or an organisation, but you want to support us: **Become an Ally** and [find out more](/What-we-do).
+
+## Meet our Key Worker
 
 Ponke Danker (she/her)
+
+<img src="ponke.JPG" width=640/>
 
 - t: 01 524 0178 / 087 155 8832
 - e: ponke.danker@exchangehouse.ie
 
-![](ponke-danker.jpg)
+[Contact Ponke](/contact)
+
+## Meet the Steering Committee
+
+##### Our Chair
+- Oein DeBhairduin (he/him)
+
+##### Individuals
+- [Senator](https://www.oireachtas.ie/en/members/member/Eileen-Flynn.S.2020-06-29/) Eileen Flynn (she/her)
+
+##### Representatives of Traveller organisations & services
+- John Paul Collins, [Pavee Point Traveller and Roma Centre](https://www.paveepoint.ie/) (he/him)
+- Maria Carnicer, [Exchange House Ireland National Travellers Service](https://www.exchangehouse.ie/) (she/her)
+- Eve O'Brien, [Irish Traveller Movement](https://itmtrav.ie/) (she/her)
+- Bridget Kelly, [National Traveller Women's Forum Ireland](https://www.ntwf.net/) (she/her)
+- Alan Hanley, [Tallaght Travellers Community Development Project](https://www.facebook.com/TallaghtTravellersCommunityDevelopmentProject/) (he/him)
+
+##### LGBTI+ organisations & services
+- Collette O'Regan, [LGBT Ireland](https://lgbt.ie/) (she/her)
+- Ruth Illingworth, LOOK (she/her)
+- Sam Blanckensee, [Transgender Equality Network Ireland](https://teni.ie/) (they/them)
+
+
+
