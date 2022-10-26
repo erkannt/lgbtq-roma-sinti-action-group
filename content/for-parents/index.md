@@ -4,6 +4,8 @@ title = "Get Information and Support"
 
 <img src="you-are-not-alone.gif" width=800>
 
+[Go back](/get-support)
+
 # For Parents & Carers
 
 #### Love your child!

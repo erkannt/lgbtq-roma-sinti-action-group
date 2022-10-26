@@ -2,12 +2,14 @@
 title = "News"
 +++
 
+[Go back](/home)
+
 # News
 
 #### Peer-Research Launch in November
 <img src="research-launch-ad.jpg" width=300/>
 
-We're proud to present the launch of the Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Traveller and Roma". 
+We're proud to present the launch of the Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma". 
 
 #### Galway Pride 2022 with GTM
 <img src="galway-pride.jpg" width=300/>
