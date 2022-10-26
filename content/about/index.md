@@ -4,15 +4,19 @@ title = "About Us"
 
 <img src="travellers-can-be.png" width=800/>
 
+[Go back](/home)
+
 # About us
 
 ## Our Vision and Mission
 
-The National Action Group for LGBTI+ Traveller & Roma Rights is a colletive that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and from LGBT+ and Traveller & Roma organisations and services.
+The National Action Group for LGBTI+ Traveller & Roma Rights is a colletive that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and within Traveller & Roma and LGBTI+ organisations and services.
 
 ## What is *intersectionality*
 
-We inform and promote awareness for the intersectional experience of LGBTI+ Traveller & Roma. *Intersectionality* refers to the fact that multiple affiliation with marginalised groups lead to an experience of overlapping discrimination and prejudice. For example, an LGBTI+ Traveller or Roma may be discriminated by the LGBTI+ community for being a Traveller and by the Traveller community for being LGBTI+ and by the wider society for both simultaneously and ever so often experiences discrimination more frequently. 
+We inform and promote awareness for the intersectional experience of LGBTI+ Traveller & Roma. *Intersectionality* refers to the fact that multiple affiliation with marginalised groups lead to an experience of overlapping and reinforcing discrimination and prejudice. 
+
+For example, an LGBTI+ Traveller or Roma may encounter racism by the LGBTI+ community & may encounter exclusion and prejudice by the Traveller or Roma community for being LGBTI+ & be discrimintaed against by the wider society for both simultaneously.
 
 ## Governance & Membership
 
@@ -21,22 +25,23 @@ The **Steering Committee** consists of representatives from the LGBTI+ Traveller
 **Membership** consists of 
 - LGBTI+ Traveller & Roma individuals
 - Traveller individuals
+- Politicians
 - Traveller organisations and services
 - LGBTI+ organisations and services
 - Other Human Rights related organisations and services.
 
-If you are interested in becoming a member, please [contact us](mailto:ponke.danker@exchangehouse.ie).
+If you are interested in becoming a member, please [write us an email](mailto:ponke.danker@exchangehouse.ie).
 
-If you are an individual not affiliated with the LGBTI+ Traveller & Roma community, the Traveller community or an organisation, but you want to support us: **Become an Ally** and [find out more](/What-we-do).
+If you are an individual not affiliated with the LGBTI+ Traveller & Roma community, the Traveller community or an organisation, but you want to support us: **Become an Ally** and [find out more](/what-we-do).
 
 ## Meet our Key Worker
 
-Ponke Danker (she/her)
+**Ponke Danker** (she/her)
 
 <img src="ponke.JPG" width=640/>
 
-- t: 01 524 0178 / 087 155 8832
-- e: ponke.danker@exchangehouse.ie
+- **phone**: 01 524 0178 / 087 155 8832
+- **email**: ponke.danker@exchangehouse.ie
 
 [Contact Ponke](/contact)
 
