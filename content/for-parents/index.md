@@ -17,11 +17,13 @@ You may feel shock and fear, but you are not alone and it is ok to be gay, lesbi
 
 ## Quotes
 
-" ... "
+> ##### " As Travellers it is vital we embrace and celebrate diversity within our community including our LGBTQI+ members. We must never leave any Traveller behind on our journey towards equality, if we do then we have failed. "
+
+> Rosemarie Maughan, Traveller Ally to LGBTI+ Traveller & Roma
 
 ## Our Support Coming Out Guide
 
-Download our Guide on how to support someone coming out as LGBTI+. 
+Download our guide on how to support someone coming out as LGBTI+. 
 
 <img src="guide-support-coming-out.jpg" width=400>
 
