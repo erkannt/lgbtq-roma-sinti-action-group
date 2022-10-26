@@ -2,30 +2,59 @@
 title = "What We Do"
 +++
 
-Travellers and Roma can be lesbian, gay, bisexual, transgender or queer and that's OK
+[Go back](/home)
 
-# Learn about What We Do
+# What We Do
 
 ## Information and Support
 
-We provide information and support to the community.
+We provide information and support to LGBTI+ Traveller & Roma, their families & organisations.
 
-See our [Get Information & Support page](/get-support).
+See our [Get Information & Support](/get-support) page.
 
 ## Prides
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna id volutpat lacus laoreet non curabitur. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Eu mi bibendum neque egestas congue. Mi quis hendrerit dolor magna eget est lorem. Sed sed risus pretium quam vulputate dignissim suspendisse. In dictum non consectetur a erat nam. Nisl rhoncus mattis rhoncus urna. Risus feugiat in ante metus dictum at tempor commodo. Elementum integer enim neque volutpat.
+##### Dublin Pride
+
+Every year on the third weekend of June, we participate in the **Dublin Pride Parade**. 
+
+LGBTI+ Travellers & Roma, our members & allies walk together to celebrate Community Pride, Family Pride, LGBTI+ Pride and Traveller & Roma Pride!
+
+See our [Pride gallery](/what-we-do/prides) for past parades. 
+
+<img src="dublin-pride-1.jpg" width=400>
+
+##### National Prides
+
+We also engage in Prides nationwide as much as we can:
+
+**Prides 2022**
+- Galway Pride 2022
+- Sligo Pride 2022
+- Trans- and Intersex Pride 2022
 
 ## Research
 
-See our [Peer Research](/what-we-do/research)
+In 2021, we commissioned a peer-research ‘Unveiling Inequality – The Experiences of LGBTI+ Traveller and Roma’  with the goal of advancing greater awareness and understanding of Lesbian, Gay, Bi-sexual, Transgender, Intersex and queer (LGBTI+) Traveller and Roma and supporting their inclusion in organisations and in their communities. 
 
-### How to get involved
+The study is gratefully supported by LGBT Ireland and the Irish Human Rights and Equality Commission (IHREC).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet dictum sit amet justo donec enim diam vulputate. Pharetra magna ac placerat vestibulum lectus mauris ultrices eros in.
+[Learn more](/what-we-do/research) - Experiences of LGBTI+ Travellers and Roma. 
 
-{{ gallery() }}
+## How to get involved
 
-## Research
+##### You are a Lesbian, Gay, Bisexual, Transsexual, Intersex or Queer Traveller or Roma?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Molestie at elementum eu facilisis sed. Proin nibh nisl condimentum id venenatis. Nullam vehicula ipsum a arcu cursus.
+And want to get involved, please [write to us or give us a call](/contact)! THere are many options of getting involved! You can also stay completely **anonymous**, if you want to! *Please inform us about your wish to stay anonymous right at the start.* 
+
+You can become a member of the National Action Group for LGBTI+ Traveller and Roma, even if you want to stay anonymous! We send you info emails regularly. 
+
+You want to become an activist or a member of the Steering committee LGBTI+ Travellers and Roma, [let's talk](/contact)!
+
+##### You are a Traveller or Roma individual or an organisation working with Travellers, Roma or LGBTI+ people?
+
+Want to become a member? [Write to us](mailto:ponke.danker@exchangehouse.ie)
+
+##### You are an individual supporting our cause?
+
+Want to **become an Ally**? [Contact us](/contact)!

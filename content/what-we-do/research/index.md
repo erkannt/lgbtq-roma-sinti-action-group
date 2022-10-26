@@ -2,10 +2,14 @@
 title = "Peer-Research"
 +++
 
-# Unveiling Inequality - Experiences of LGBTI+ Traveller and Roma
+[Go back](/get-support)
 
-##### COMING SOON Launch of Peer-Research Report 
+# Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma
+
+##### *COMING SOON* 
+
+**Launch of Peer-Research Report** 
 
 > Unveiling Inequality - Experiences of LGBTI+ Traveller and Roma
 
-##### Save the date in NOVEMBER
+#### Save the date in NOVEMBER
