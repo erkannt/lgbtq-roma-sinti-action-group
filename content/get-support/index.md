@@ -4,15 +4,17 @@ title = "Get Information and Support"
 
 <img src="you-are-not-alone.gif" width=800>
 
+[Go back](/home)
+
 # Get Information & Support
 
 ##### We have a variety of empowering resources, helpful guides, useful information and links to other organisations & more support for you. 
 
-##### And if you like to [talk to us personally](/contact), give our Key Worker a ring or write her a message.
+##### And if you like to talk to us personally, give our Key Worker [a ring or write her a message](/contact).
 
 ## Find Help & Support
 
-Find support at LGBT+ Traveller & Roma friendly Traveller and LGBT+ organisations who offer a non-judgmental ear to you or provide information...
+Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ organisations who offer a non-judgmental ear to you and provide information...
 
 <img src="support-lines.png" width=800>
 
@@ -21,6 +23,8 @@ Find support at LGBT+ Traveller & Roma friendly Traveller and LGBT+ organisation
 <img src="traveller-counselling-sercvice.bmp" width=200><img src="exchangehouse-logo.jpg" width=500>
 
 ## Advice & Guides
+
+*COMING SOON* 
 
 We are currently working with a group of LGBTI+ Traveller & Roma to develop guides on 
 
@@ -32,7 +36,7 @@ We are currently working with a group of LGBTI+ Traveller & Roma to develop guid
 
 ## Resources
 
-Download the **LGBT+ Traveller & Roma Calendar** or our **LGBTI+ Traveller & Roma Pride Poster** and share it with your community. 
+Download the **LGBTI+ Traveller & Roma Calendar** or our **LGBTI+ Traveller & Roma Pride Poster** and share it with your community:
 
 <img src="2022-calendar.jpg" width=400>
 
@@ -44,10 +48,14 @@ Download the **LGBT+ Traveller & Roma Calendar** or our **LGBTI+ Traveller & Rom
 
 ## For Parents & Carers
 
-For Parents & Carers: If you are a parent or carer of an LGBTI+ Traveller or Roma or you think your child might be LGBTI+ you find some advice and resources [here](/for-parents). 
+If you are a parent or carer of an LGBTI+ Traveller or Roma or you think your child might be LGBTI+ you find some advice and resources [here](/for-parents). 
 
 ## Peer-Research Unveiling Inequality
 
-COMING SOON Peer-Research Report Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma.
+*COMING SOON*
+
+Peer-Research Report 
+
+> " Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma ".
 
 [Find out more](/what-we-do/research)
