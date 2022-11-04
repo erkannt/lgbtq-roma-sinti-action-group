@@ -35,25 +35,25 @@ We also engage in Prides nationwide as much as we can:
 
 ## Research
 
-In 2021, we commissioned a peer-research ‘Unveiling Inequality – The Experiences of LGBTI+ Traveller and Roma’  with the goal of advancing greater awareness and understanding of Lesbian, Gay, Bi-sexual, Transgender, Intersex and queer (LGBTI+) Traveller and Roma and supporting their inclusion in organisations and in their communities. 
+In 2021, we commissioned a peer-research ‘Unveiling Inequality – The Experiences of LGBTI+ Traveller and Roma’  with the goal of advancing greater awareness and understanding of Lesbian, Gay, Bi-sexual, Transgender, Intersex and Queer (LGBTI+) Traveller & Roma and supporting their inclusion in organisations and services and in their communities. 
 
 The study is gratefully supported by LGBT Ireland and the Irish Human Rights and Equality Commission (IHREC).
 
-[Learn more](/what-we-do/research) - Experiences of LGBTI+ Travellers and Roma. 
+[Learn more](/what-we-do/research) 
 
 ## How to get involved
 
 ##### You are a Lesbian, Gay, Bisexual, Transsexual, Intersex or Queer Traveller or Roma?
 
-And want to get involved, please [write to us or give us a call](/contact)! THere are many options of getting involved! You can also stay completely **anonymous**, if you want to! *Please inform us about your wish to stay anonymous right at the start.* 
+And want to get involved, please [write to us or give us a call](/contact)! There are many options of getting involved! You can also stay completely **anonymous**, if you want to! *Please inform us about your wish to stay anonymous right at the start.* 
 
-You can become a member of the National Action Group for LGBTI+ Traveller and Roma, even if you want to stay anonymous! We send you info emails regularly. 
+You can become a **member** of the National Action Group for LGBTI+ Traveller and Roma Rights, even if you want to stay anonymous! We send you info emails regularly. 
 
-You want to become an activist or a member of the Steering committee LGBTI+ Travellers and Roma, [let's talk](/contact)!
+You want to become an activist or a member of the **Steering Committee**? [let's talk](/contact)!
 
 ##### You are a Traveller or Roma individual or an organisation working with Travellers, Roma or LGBTI+ people?
 
-Want to become a member? [Write to us](mailto:ponke.danker@exchangehouse.ie)
+Want to become a **member**? [Write to us](mailto:ponke.danker@exchangehouse.ie)
 
 ##### You are an individual supporting our cause?
 
