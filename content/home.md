@@ -17,23 +17,23 @@ The National Action Group for LGBTI+ Traveller & Roma Rights is a collective tha
 #### Peer-Research Launch on 14th November
 <img src="research-launch-ad.jpg" width=300/>
 
-We're proud to present the launch of the Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma". 
+We're proud to present the launch of the Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma", a peer-research project to explore and make visible the experience of exclusion of LGBTI+ Travellers and Roma as well as capture the love and acceptance that some LGBTI+ Traveller and Roma describe as receiving from their families and loved ones. [Learn more](/news)
 
 #### Galway Pride with GTM
 <img src="galway-pride.jpg" width=300/>
 
-In August, we proudly walked with Galway Traveller Movement in Galway's Pride Parade.
+In August, we proudly walked with Galway Traveller Movement in Galway's Pride Parade. [Learn more](/news)
 
 #### Dublin Pride June 2022
 <img src="dublin-pride.jpg" width=300/>
 
-At the most anticipated event of the Pride Season, LGBTI+ Traveller & Roma were at the front of the parade celebrating diversity and community. 
+At the most anticipated event of the Pride Season, LGBTI+ Traveller & Roma were at the front of the parade celebrating diversity and community. [Learn more](/what-we-do/prides)
 
 [See all news](/news)
 
 ## What They Say
 
-> #####  " Don't be afraid of who you are. Hiding from your true self will inhibit you from being happy. I came out 21 years ago and I've been loving life ever since! Be Proud! "
+> #####  « Don't be afraid of who you are. Hiding from your true self will inhibit you from being happy. I came out 21 years ago and I've been loving life ever since! Be Proud! »
 
 > Mark O'Donahue, Gay Traveller
 
