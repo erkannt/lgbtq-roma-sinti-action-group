@@ -52,7 +52,7 @@ If you are a parent or carer of an LGBTI+ Traveller or Roma or you think your ch
 
 ## Peer-Research Unveiling Inequality
 
-*COMING SOON*
+*JUST PUBLISHED*
 
 Peer-Research Report 
 
