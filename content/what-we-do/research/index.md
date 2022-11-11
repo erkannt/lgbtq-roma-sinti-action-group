@@ -18,6 +18,8 @@ The report "Unveiling Inequality – The Experiences of LGBTI+ Traveller and Rom
 
 [Download press release](/2022-11-press-release-peer-research-launch.pdf)
 
+<img src="/report-picture.jpeg" width=400>
+
 ## About the Peer-Research
 
 In 2021, the National Action Group for LGBTI+ Traveller and Roma Rights commissioned a peer-to-peer participatory action
