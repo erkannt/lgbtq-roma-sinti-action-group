@@ -12,7 +12,7 @@ title = "Contact Us"
 
 Ponke Danker (she/her)
 
-<img src="ponke.JPG" width=320/>
+<img src="/ponke.JPG" width=320/>
 
 **Call us**
 

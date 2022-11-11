@@ -2,7 +2,7 @@
 title = "About Us"
 +++
 
-<img src="travellers-can-be.png" width=800/>
+<img src="/travellers-can-be.png" width=800/>
 
 [Go back](/home)
 
@@ -38,7 +38,7 @@ If you are an individual not affiliated with the LGBTI+ Traveller & Roma communi
 
 **Ponke Danker** (she/her)
 
-<img src="ponke.JPG" width=640/>
+<img src="/ponke.JPG" width=640/>
 
 - **phone**: 01 524 0178 / 087 155 8832
 - **email**: ponke.danker@exchangehouse.ie

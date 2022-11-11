@@ -2,7 +2,7 @@
 title = "Get Information and Support"
 +++
 
-<img src="you-are-not-alone.gif" width=800>
+<img src="/you-are-not-alone.gif" width=800>
 
 [Go back](/get-support)
 
@@ -25,7 +25,7 @@ You may feel shock and fear, but you are not alone and it is ok to be gay, lesbi
 
 Download our guide on how to support someone coming out as LGBTI+. 
 
-<img src="guide-support-coming-out.jpg" width=400>
+<img src="/guide-support-coming-out.jpg" width=400>
 
 [Download here](guide-support-coming-out.pdf)
 
