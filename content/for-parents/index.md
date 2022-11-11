@@ -12,12 +12,16 @@ title = "Get Information and Support"
 
 ##### Is your child struggling with their sexual identity or gender? Did they just tell you that they are lesbian, gay, bisexual or transgender or is your child intersex?
 
-You may feel shock and fear, but you are not alone and it is ok to be gay, lesbian, bisexual, transgender or intersex as a Traveller or Roma. LGBT+ Traveller and Roma live happy and fulfilled lives being true to both their identities as LGBT+ and as Traveller and Roma. What your child needs most now is your love and acceptance and the knowledge to live a full life in your community. There are many resources out there and people you can talk to, to find out how to best to cope with your worries and to support your child in your family and community
+You may feel shock and fear, but you are not alone and it is ok to be gay, lesbian, bisexual, transgender or intersex as a Traveller or Roma. LGBTI+ Traveller and Roma live happy and fulfilled lives being true to both their identities as LGBT+ and as Traveller and Roma. 
+
+What your child needs most of all now is your love and acceptance and the knowledge that you support them in living a full life in your community. 
+
+There are many resources out there and people you can talk to, to find out how best to cope with your worries and to support and love your child in your family and community.
 
 
 ## Quotes
 
-> ##### " As Travellers it is vital we embrace and celebrate diversity within our community including our LGBTQI+ members. We must never leave any Traveller behind on our journey towards equality, if we do then we have failed. "
+> ##### « As Travellers it is vital we embrace and celebrate diversity within our community including our LGBTQI+ members. We must never leave any Traveller behind on our journey towards equality, if we do then we have failed. »
 
 > Rosemarie Maughan, Traveller Ally to LGBTI+ Traveller & Roma
 
@@ -25,9 +29,9 @@ You may feel shock and fear, but you are not alone and it is ok to be gay, lesbi
 
 Download our guide on how to support someone coming out as LGBTI+. 
 
-<img src="/guide-support-coming-out.jpg" width=400>
-
 [Download here](guide-support-coming-out.pdf)
+
+<img src="/guide-support-coming-out.jpg" width=400>
 
 #### 6 Step Plan  - Support Coming Out
 

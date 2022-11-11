@@ -2,7 +2,7 @@
 title = "Contact Us"
 +++
 
-[Go back](/home)
+[Go back](/get-support)
 
 # Contact us
 

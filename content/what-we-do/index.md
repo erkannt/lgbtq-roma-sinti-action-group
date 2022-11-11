@@ -8,15 +8,15 @@ title = "What We Do"
 
 ## Information and Support
 
-We provide information and support to LGBTI+ Traveller & Roma, their families & organisations.
+We provide information and support to LGBTI+ Travellers & Roma, their families & organisations.
 
-See our [Get Information & Support](/get-support) page.
+[Get Information & Support here](/get-support)
 
 ## Prides
 
 ##### Dublin Pride
 
-Every year on the third weekend of June, we participate in the **Dublin Pride Parade**. 
+Every year on the third weekend of June, the National Action Group for LGBTI+ Traveller and Roma Rights participates in the **Dublin Pride Parade**. 
 
 LGBTI+ Travellers & Roma, our members & allies walk together to celebrate Community Pride, Family Pride, LGBTI+ Pride and Traveller & Roma Pride!
 
@@ -33,9 +33,12 @@ We also engage in Prides nationwide as much as we can:
 - Sligo Pride 2022
 - Trans- and Intersex Pride 2022
 
+[Learn more](/news)
+
 ## Research
 
-In 2021, we commissioned a peer-research ‘Unveiling Inequality – The Experiences of LGBTI+ Traveller and Roma’  with the goal of advancing greater awareness and understanding of Lesbian, Gay, Bi-sexual, Transgender, Intersex and Queer (LGBTI+) Traveller & Roma and supporting their inclusion in organisations and services and in their communities. 
+In 2021, the National Action Group for LGBTI+ Traveller and Roma Rights commissioned a peer-research ‘Unveiling Inequality – The Experiences of LGBTI+ Traveller and Roma’  with the goal to unveil the isolation experienced by LGBTI+ Travellers and Roma, with the
+aim of creating an Ireland which is more LGBTI+ Travellers and Roma inclusive.
 
 The study is gratefully supported by LGBT Ireland and the Irish Human Rights and Equality Commission (IHREC).
 
@@ -49,12 +52,12 @@ And want to get involved, please [write to us or give us a call](/contact)! Ther
 
 You can become a **member** of the National Action Group for LGBTI+ Traveller and Roma Rights, even if you want to stay anonymous! We send you info emails regularly. 
 
-You want to become an activist or a member of the **Steering Committee**? [let's talk](/contact)!
+You want to become an activist or a member of the **Steering Committee**? [Let's talk](/contact)!
 
 ##### You are a Traveller or Roma individual or an organisation working with Travellers, Roma or LGBTI+ people?
 
-Want to become a **member**? [Write to us](mailto:ponke.danker@exchangehouse.ie)
+Want to become a **member**? [Write to us!](mailto:ponke.danker@exchangehouse.ie)
 
 ##### You are an individual supporting our cause?
 
-Want to **become an Ally**? [Contact us](/contact)!
+Want to **become an ally**? [Contact us](/contact)!

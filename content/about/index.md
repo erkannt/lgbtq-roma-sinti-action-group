@@ -10,11 +10,13 @@ title = "About Us"
 
 ## Our Vision and Mission
 
-The National Action Group for LGBTI+ Traveller & Roma Rights is a colletive that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and within Traveller & Roma and LGBTI+ organisations and services.
+The National Action Group for LGBTI+ Traveller & Roma Rights is a collective that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and within Traveller & Roma and LGBTI+ organisations and services.
 
 ## What is *intersectionality*
 
 We inform about and promote awareness for the intersectional experience of LGBTI+ Traveller & Roma. *Intersectionality* refers to the fact that multiple affiliation with marginalised groups lead to an experience of overlapping and reinforcing discrimination and prejudice. 
+
+LGBTI+ Travellers and Roma often face homophobia, anti-Traveller and anti-Roma racism and a combination of the two in their own communities, the LGBTI+ community & the wider society.
 
 For example, an LGBTI+ Traveller or Roma may encounter racism by the LGBTI+ community & may encounter exclusion and prejudice by the Traveller or Roma community for being LGBTI+ & be discrimintaed against by the wider society for both simultaneously.
 
@@ -38,19 +40,19 @@ If you are an individual not affiliated with the LGBTI+ Traveller & Roma communi
 
 **Ponke Danker** (she/her)
 
-<img src="/ponke.JPG" width=640/>
+<img src="/ponke.JPG" width=320/>
 
-- **phone**: 01 524 0178 / 087 155 8832
-- **email**: ponke.danker@exchangehouse.ie
+- **Phone**: 01 524 0178 / 087 155 8832
+- **Email**: ponke.danker@exchangehouse.ie
 
 [Contact Ponke](/contact)
 
 ## Meet the Steering Committee
 
-##### Our Chair
-- Oein DeBhairduin (he/him)
+##### Our Chairperson
+- Oein DeBhairdúin (he/him)
 
-##### Individuals
+##### Individuals & Politicians
 - [Senator](https://www.oireachtas.ie/en/members/member/Eileen-Flynn.S.2020-06-29/) Eileen Flynn (she/her)
 
 ##### Representatives of Traveller organisations & services
