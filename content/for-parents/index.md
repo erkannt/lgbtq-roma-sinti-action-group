@@ -29,7 +29,7 @@ There are many resources out there and people you can talk to, to find out how b
 
 Download our guide on how to support someone coming out as LGBTI+. 
 
-[Download here](guide-support-coming-out.pdf)
+[Download here](/guide-support-coming-out.pdf)
 
 <img src="/guide-support-coming-out.jpg" width=400>
 
