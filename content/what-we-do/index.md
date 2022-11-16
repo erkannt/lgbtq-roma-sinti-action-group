@@ -12,6 +12,13 @@ We provide information and support to LGBTI+ Travellers & Roma, their families &
 
 [Get Information & Support here](/get-support)
 
+## Research
+
+In 2021, the National Action Group for LGBTI+ Traveller and Roma Rights commissioned a peer-research ‘Unveiling Inequality – The Experiences of LGBTI+ Traveller and Roma’  with the goal to unveil the isolation experienced by LGBTI+ Travellers and Roma, with the
+aim of creating an Ireland which is more LGBTI+ Travellers and Roma inclusive.
+
+[Learn more](/what-we-do/research) 
+
 ## Prides
 
 ##### Dublin Pride
@@ -34,15 +41,6 @@ We also engage in Prides nationwide as much as we can:
 - Trans- and Intersex Pride 2022
 
 [Learn more](/news)
-
-## Research
-
-In 2021, the National Action Group for LGBTI+ Traveller and Roma Rights commissioned a peer-research ‘Unveiling Inequality – The Experiences of LGBTI+ Traveller and Roma’  with the goal to unveil the isolation experienced by LGBTI+ Travellers and Roma, with the
-aim of creating an Ireland which is more LGBTI+ Travellers and Roma inclusive.
-
-The study is gratefully supported by LGBT Ireland and the Irish Human Rights and Equality Commission (IHREC).
-
-[Learn more](/what-we-do/research) 
 
 ## How to get involved
 

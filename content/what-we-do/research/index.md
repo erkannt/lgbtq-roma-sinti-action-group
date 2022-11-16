@@ -14,9 +14,11 @@ The report "Unveiling Inequality – The Experiences of LGBTI+ Traveller and Rom
 
 > Oein DeBhairdúin, Chairperson of the National Action Group for LGBTI+ Traveller and Roma Rights
 
-[Download report](/research-report-unveiling-inequality-experiences-lgbti-trav-and-roma.pdf)
+[Download report](/LGBTI-Traveller-and-Roma-Peer-Research-Report.pdf)
 
-[Download press release](/2022-11-press-release-peer-research-launch.pdf)
+[Download executive summary](/LGBTI-Traveller-and-Roma-Peer-Research-Executive-Summary.pdf)
+
+[Download press release](/LGBTI-Traveller-and-Roma-Peer-Research-Press-Release.pdf)
 
 <img src="/report-picture.jpeg" width=400>
 
