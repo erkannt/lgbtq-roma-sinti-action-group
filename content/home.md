@@ -19,15 +19,15 @@ The National Action Group for LGBTI+ Traveller & Roma Rights is a collective tha
 
 The Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma", a peer-research project to explore and make visible the experience of exclusion of LGBTI+ Travellers and Roma as well as of great support from family and loved ones on their journeys, has been newly published and reveals a dire need for action for the LGBTI+ Travellers and Roma community. [Learn more](/what-we-do/research) 
 
-#### Galway Pride with GTM
-<img src="/galway-pride.jpg" width=300/>
+#### Traveller Mental Health Conference on 22nd November
+<img src="/2022-11-traveller-mental-health-conference-1.jpg" width=300/>
 
-In August, we proudly walked with Galway Traveller Movement in Galway's Pride Parade. [Learn more](/news)
+The National Action Group for LGBTI+ Traveller and Roma Rights had a stand at the Traveller Mental Health Conference. [Learn more](/news)
 
-#### Dublin Pride June 2022
-<img src="/dublin-pride.jpg" width=300/>
+#### Peer-Research was launched on 14th November
+<img src="/launch-oein.jpg" width=300/>
 
-At the most anticipated event of the Pride Season, LGBTI+ Traveller & Roma were at the front of the parade celebrating diversity and community. [Learn more](/what-we-do/prides)
+The National Action Group for LGBTI+ Traveller and Roma Rights proudly launched  the Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma" on 14th November. [Learn more](/news)
 
 [See all news](/news)
 

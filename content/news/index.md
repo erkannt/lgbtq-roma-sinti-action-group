@@ -6,16 +6,23 @@ title = "News"
 
 # News
 
-#### Peer-Research Launch on 14th November
-<img src="/research-launch-ad.jpg" width=300/>
+#### Peer-Research was launched on 14th November
+<img src="/launch-oein.jpg" width=300/>
 
-The National Action Group for LGBTI+ Traveller and Roma Rights is proud to present the launch of the Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma", a peer-research project to explore and make visible the experience of exclusion of LGBTI+ Travellers and Roma as well as capture the love and acceptance that some LGBTI+ Traveller and Roma describe as receiving from their families and loved ones.
+The National Action Group for LGBTI+ Traveller and Roma Rights proudly launched  the Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma", a peer-research project to explore and make visible the experience of exclusion of LGBTI+ Travellers and Roma as well as capture the love and acceptance that some LGBTI+ Traveller and Roma describe as receiving from their families and loved ones.
 
 The IHERC funded peer-to-peer research looks at the lived experience of LGBTI+ Travellers and Roma in Ireland and unveils how LGBTI+ Travellers and Roma face homophobia, anti-Traveller racism and a combination of the two in their own communities, the LGBTI+ community & the wider society.
 
-Join us on 14th November at 12.30pm at Outhouse at 105 Capel Street. Lunch & refreshments provided. 
+Have a look at the event [here](/news/launch).
 
 To learn more about the research, find out more [here](/what-we-do/research)!
+
+#### Traveller Mental Health Conference on 22nd November
+<img src="/2022-11-traveller-mental-health-conference-2.jpg" width=300/>
+
+The National Action Group for LGBTI+ Traveller and Roma Rights had a stand at the Traveller Mental Health Conference. We were happy to see a huge interest in our resources and the newly puiblished Peer-Research 'Unveiling Inequality'. With the research showing that LGBTI+ Travellers experience high levels of homelesseness, harassment and mental health issues, we want to make sure their mental health needs are considered. 
+
+Minister Mary Butler and all CHO areas were provided with the Peer-Research report 'Unveiling Inequality' and during a workshop we were able to engage in conversation with wonderful staff members from Traveller organsiations around the country. 
 
 #### Galway Pride with GTM
 <img src="/galway-pride.jpg" width=300/>
