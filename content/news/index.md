@@ -20,9 +20,9 @@ To learn more about the research, find out more [here](/what-we-do/research)!
 #### Traveller Mental Health Conference on 22nd November
 <img src="/2022-11-traveller-mental-health-conference-2.jpg" width=300/>
 
-The National Action Group for LGBTI+ Traveller and Roma Rights had a stand at the Traveller Mental Health Conference. We were happy to see a huge interest in our resources and the newly puiblished Peer-Research 'Unveiling Inequality'. With the research showing that LGBTI+ Travellers experience high levels of homelesseness, harassment and mental health issues, we want to make sure their mental health needs are considered. 
+The National Action Group for LGBTI+ Traveller and Roma Rights had a stand at the Traveller Mental Health Conference. We were happy to see a huge interest in our resources and the newly published Peer-Research 'Unveiling Inequality'. With the research showing that LGBTI+ Travellers experience high levels of homelesseness, harassment and mental health issues, we want to make sure their mental health needs are considered. 
 
-Minister Mary Butler and all CHO areas were provided with the Peer-Research report 'Unveiling Inequality' and during a workshop we were able to engage in conversation with wonderful staff members from Traveller organsiations around the country. 
+Minister Mary Butler and all CHO areas were provided with the Peer-Research report 'Unveiling Inequality' and during a workshop we were able to engage in conversation with wonderful staff members from Traveller organsations around the country. 
 
 #### Galway Pride with GTM
 <img src="/galway-pride.jpg" width=300/>

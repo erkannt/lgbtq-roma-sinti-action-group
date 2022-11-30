@@ -22,7 +22,7 @@ The Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and R
 #### Traveller Mental Health Conference on 22nd November
 <img src="/2022-11-traveller-mental-health-conference-1.jpg" width=300/>
 
-The National Action Group for LGBTI+ Traveller and Roma Rights had a stand at the Traveller Mental Health Conference. [Learn more](/news)
+The National Action Group for LGBTI+ Traveller and Roma Rights had a stand at the Traveller Mental Health Conference on 22nd Nvoember. [Learn more](/news)
 
 #### Peer-Research was launched on 14th November
 <img src="/launch-oein.jpg" width=300/>
