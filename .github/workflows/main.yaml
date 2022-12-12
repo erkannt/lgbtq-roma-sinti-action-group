@@ -12,4 +12,4 @@ jobs:
         env:
           PAGES_BRANCH: gh-pages
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_FLAGS: --base-url https://erkannt.github.io/lgbtq-roma-sinti-action-group/
+          BUILD_FLAGS: --base-url "https://erkannt.github.io/lgbtq-roma-sinti-action-group/"
