@@ -1,5 +1,5 @@
-on: push
-name: Build and deploy GH Pages
+on: workflow_dispatch
+name: Build and deploy site
 jobs:
   build:
     runs-on: ubuntu-latest
