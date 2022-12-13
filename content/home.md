@@ -14,15 +14,16 @@ The National Action Group for LGBTI+ Traveller & Roma Rights is a collective tha
 
 ## News & Events
 
+#### LGBTI+ Traveller and Roma Christmas Social
+<img src="/Christmas-social-ad.jpg" width=300>
+
+LGBTI+ Traveller and Roma **please join us** on **19th December at 2pm** in the Youth Hall of Exchange House Ireland, 61 Great Strand Street, Dublin, D01 WC97. [Learn more](/news)
+
 #### New Peer-Research on LGBTI+ Travellers and Roma published
-<img src="/report-picture.jpeg" width=300/>
+<img src="/report-picture-square.jpeg" width=300/>
 
 The Peer-Research "Unveiling Inequality - Experiences of LGBTI+ Travellers and Roma", a peer-research project to explore and make visible the experience of exclusion of LGBTI+ Travellers and Roma as well as of great support from family and loved ones on their journeys, has been newly published and reveals a dire need for action for the LGBTI+ Travellers and Roma community. [Learn more](/what-we-do/research) 
 
-#### Traveller Mental Health Conference on 22nd November
-<img src="/2022-11-traveller-mental-health-conference-1.jpg" width=300/>
-
-The National Action Group for LGBTI+ Traveller and Roma Rights had a stand at the Traveller Mental Health Conference on 22nd Nvoember. [Learn more](/news)
 
 #### Peer-Research was launched on 14th November
 <img src="/launch-oein.jpg" width=300/>

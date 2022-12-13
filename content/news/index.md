@@ -6,6 +6,11 @@ title = "News"
 
 # News
 
+#### LGBTI+ Traveller and Roma Christmas Social on 19th December
+<img src="/Christmas-social-ad.jpg" width=300>
+
+LGBTI+ Traveller and Roma **please join us** on **19th December at 2pm** in the Youth Hall of Exchange House Ireland, 61 Great Strand Street, Dublin, D01 WC97. This is a space **just for LGBTI+ Traveller and Roma**. We'll have some Christmas food and drinks. If you would like to know more [contact our Key Worker](mailto:ponke.danker@exchangehouse.ie) or message/call her on 087 155 8832.
+
 #### Peer-Research was launched on 14th November
 <img src="/launch-oein.jpg" width=300/>
 
@@ -18,7 +23,7 @@ Have a look at the event [here](/news/launch).
 To learn more about the research, find out more [here](/what-we-do/research)!
 
 #### Traveller Mental Health Conference on 22nd November
-<img src="/2022-11-traveller-mental-health-conference-2.jpg" width=300/>
+<img src="/2022-11-traveller-mental-health-conference-3.jpg" width=300/>
 
 The National Action Group for LGBTI+ Traveller and Roma Rights had a stand at the Traveller Mental Health Conference. We were happy to see a huge interest in our resources and the newly published Peer-Research 'Unveiling Inequality'. With the research showing that LGBTI+ Travellers experience high levels of homelesseness, harassment and mental health issues, we want to make sure their mental health needs are considered. 
 
