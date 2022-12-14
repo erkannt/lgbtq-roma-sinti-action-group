@@ -14,5 +14,5 @@ To preview on Mac or Linux:
 To deploy a new version of the site:
 
 1. Commit and push the changes to this repo
-2. Go to the [Build and deploy site workflow]
+2. Go to the [Build and deploy site workflow](https://github.com/erkannt/lgbtq-roma-sinti-action-group/actions/workflows/main.yaml)
 3. Trigger the action by clicking `Run workflow`
