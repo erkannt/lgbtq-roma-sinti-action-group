@@ -1,18 +1,31 @@
 @media screen and (min-width: 72ch) {
-  .index-header {
+  .page-header--index {
+    .page-header__logo {
+      display: none;
+    }
+  }
+}
+
+.index-header {
+  margin-bottom: 2rem;
+
+  @media screen and (min-width: 72ch) {
     display: flex;
     gap: 2rem;
     align-items: center;
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
   }
 }
 
 .index-header__logo {
-  display: block;
-  max-width: 200px;
-  max-height: 160px;
-  width: auto;
-  height: auto;
+  display: none;
+  @media screen and (min-width: 72ch) {
+    display: block;
+    max-width: 200px;
+    max-height: 160px;
+    width: auto;
+    height: auto;
+  }
 }
 
 .index-header__title {

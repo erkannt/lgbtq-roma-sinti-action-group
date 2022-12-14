@@ -12,7 +12,11 @@
   </head>
 
   <body>
+    {% if page.path %}
     <header class="page-header">
+    {% else %}
+    <header class="page-header page-header--index">
+    {% endif %}
       <a href="/">
         <img class="page-header__logo" src="/logo.png" alt="" />
       </a>
