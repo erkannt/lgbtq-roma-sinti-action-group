@@ -18,9 +18,14 @@ to empower, support & celebrate Lesbian, Gay, Transgender, Intersex and Queer (L
 
 ## About us
 
+<div class="narrow-side-column">
+<div>
 The National Action Group for LGBTI+ Traveller & Roma Rights is a collective that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and within Traveller & Roma and LGBTI+ organisations and services.
+</div>
 
 <a class="button button--green" href="/about">Learn more</a>
+</div>
+
 
 ## News & Events
 

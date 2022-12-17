@@ -1,0 +1,11 @@
+
+@media screen and (min-width: 72ch) {
+  .narrow-side-column {
+    display: grid;
+		grid-template-columns: 1fr auto;
+		gap: 2rem;
+  }
+  .narrow-side-column__side {
+    width: 100%;
+  }
+}
