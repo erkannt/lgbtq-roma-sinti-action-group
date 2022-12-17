@@ -1,0 +1,15 @@
+.hero-block {
+  display: flex;
+  flex-direction: column;
+
+  img {
+    max-width: 100%;
+    margin: 0;
+  }
+}
+
+.hero-block__text {
+  background-color: var(--dark-purple-color);
+  color: var(--white-color);
+  padding: 1rem;
+}

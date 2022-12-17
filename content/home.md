@@ -1,10 +1,20 @@
 +++
 +++
 
+<div class="hero-block">
 
-<img src="/title-image.jpg" width=800/>
+<img src="/pride-2022.jpg">
 
-[What We Do](/what-we-do)
+<div class="hero-block__text">
+
+<h2>We strive</h2>
+
+to empower, support & celebrate Lesbian, Gay, Transgender, Intersex and Queer (LGBTI+) Traveller and Roma and their families.
+
+<a class="button button--white" href="/what-we-do">What we do</a>
+
+</div>
+</div>
 
 ## About us
 
