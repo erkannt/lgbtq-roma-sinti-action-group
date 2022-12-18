@@ -3,7 +3,7 @@
 
 <div class="hero-block">
 
-<img src="/pride-2022.jpg">
+{{image(path="/pride-2022.jpg")}}
 
 <div class="hero-block__text">
 
@@ -74,6 +74,6 @@ Send an email to [ponke.danker@exchangehouse.ie](mailto:ponke.danker@exchangehou
 ## Our Sponsors
 
 <div class=index-logos>
-<img src="/dcediy-logo.png"/>
-<img src="/iherc-logo.png"/>
+{{image(path="/dcediy-logo.png")}}
+{{image(path="/iherc-logo.png")}}
 </div>
