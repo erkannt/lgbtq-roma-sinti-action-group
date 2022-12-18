@@ -57,11 +57,19 @@ Don't be afraid of who you are. Hiding from your true self will inhibit you from
 Mark O'Donahue, Gay Traveller
 </p>
 
+<div class="color-box color-box--green">
+
 ## Subscribe to our Newsletter
+
+<div class="narrow-side-column ">
 
 Send an email to [ponke.danker@exchangehouse.ie](mailto:ponke.danker@exchangehouse.ie) with the subject "NEWSLETTER".
 
-[Send email](mailto:ponke.danker@exchangehouse.ie)
+<a class="button button--white" href="mailto:ponke.danker@exchangehouse.ie?subject=Newsletter&body=Please subscribe me to the action group newsletter.">Send email</a>
+
+</div>
+
+</div>
 
 ## Our Sponsors
 
