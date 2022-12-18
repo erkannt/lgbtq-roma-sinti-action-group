@@ -73,6 +73,7 @@ Send an email to [ponke.danker@exchangehouse.ie](mailto:ponke.danker@exchangehou
 
 ## Our Sponsors
 
-<img src="/dcediy-logo.png" width=50%/>
-
-<img src="/iherc-logo.png" width=50%/>
+<div class=index-logos>
+<img src="/dcediy-logo.png"/>
+<img src="/iherc-logo.png"/>
+</div>
