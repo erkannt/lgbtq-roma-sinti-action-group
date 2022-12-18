@@ -49,9 +49,13 @@ The National Action Group for LGBTI+ Traveller and Roma Rights proudly launched 
 
 ## What They Say
 
-> #####  « Don't be afraid of who you are. Hiding from your true self will inhibit you from being happy. I came out 21 years ago and I've been loving life ever since! Be Proud! »
+<p class="quote">
+Don't be afraid of who you are. Hiding from your true self will inhibit you from being happy. I came out 21 years ago and I've been loving life ever since! Be Proud!
+</p>
 
-> Mark O'Donahue, Gay Traveller
+<p class="quote-author">
+Mark O'Donahue, Gay Traveller
+</p>
 
 ## Subscribe to our Newsletter
 
