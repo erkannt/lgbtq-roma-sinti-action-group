@@ -1,6 +1,7 @@
 +++
 date = "2022-11-11"
 title = "Trans- and Intersex Pride in Dublin"
+[extra]
 image = "/trans-pride.png"
 summary = "Long-term Ally Marry McDonagh read out a speech of Trans Traveller Mike at the Trans- and Intersex Pride in Dublin in July."
 +++

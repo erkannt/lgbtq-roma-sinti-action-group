@@ -1,0 +1,16 @@
+{% import "macros.html" as macros %}
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ section.title }}</h1>
+{% for post in section.pages %}
+  <h2><a href="{{ post.permalink }}">{{ post.title }}</a></h1>
+    <div class="news-header">
+    {{macros::image(path=post.extra.image)}}
+    <p>{{ post.date }}</p>
+    </div>
+    <p>
+      {{ post.extra.summary | safe }}
+    </p>
+{% endfor %}
+{% endblock content %}

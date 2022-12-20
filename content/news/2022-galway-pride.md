@@ -1,6 +1,7 @@
 +++
 date = "2022-11-04"
 title = "Galway Pride with GTM"
+[extra]
 image = "/galway-pride.jpg"
 summary = "In August, the National Action Group for LGBTI+ Traveller and Roma Rights proudly walked with Galway Traveller Movement in Galway's Pride Parade."
 +++

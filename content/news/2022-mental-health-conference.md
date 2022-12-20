@@ -1,6 +1,7 @@
 +++
 date = "2022-11-30"
 title = "Traveller Mental Health Conference on 22nd November"
+[extra]
 image = "/2022-11-traveller-mental-health-conference-3.jpg"
 summary = "The National Action Group for LGBTI+ Traveller and Roma Rights had a stand at the Traveller Mental Health Conference. We were happy to see a huge interest in our resources and the newly published Peer-Research 'Unveiling Inequality'."
 +++

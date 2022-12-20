@@ -12,7 +12,7 @@
   </head>
 
   <body>
-    {% if page.path %}
+    {% if page.path or section.title %}
     <header class="page-header">
     {% else %}
     <header class="page-header page-header--index">

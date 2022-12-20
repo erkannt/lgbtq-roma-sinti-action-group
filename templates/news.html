@@ -1,0 +1,10 @@
+{% import "macros.html" as macros %}
+{% extends "base.html" %}
+
+{% block content %}
+<a href="/news">Back to all news</a>
+  <h1>{{ page.title }}</a></h1>
+    {{macros::image(path=page.extra.image)}}
+    <p>{{ page.date }}</p>
+  {{ page.content | safe }}
+{% endblock content %}
