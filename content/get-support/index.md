@@ -2,7 +2,7 @@
 title = "Get Information and Support"
 +++
 
-<img src="/you-are-not-alone.gif" width=800>
+{{ image(path="/you-are-not-alone.gif" )}}
 
 [Go back](/home)
 
@@ -16,7 +16,7 @@ title = "Get Information and Support"
 
 Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ organisations who offer a non-judgmental ear to you and provide information...
 
-<img src="/support-lines.png" width=800>
+{{ image(path="/support-lines.png")}}
 
 ...or contact the [Traveller Counselling Service](https://travellercounselling.ie/) or [Exchange House Ireland](https://www.exchangehouse.ie/services.php) and make an appointment with a counsellor!
 

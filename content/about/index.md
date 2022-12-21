@@ -2,7 +2,7 @@
 title = "About Us"
 +++
 
-<img src="/travellers-can-be.png" width=800/>
+{{ image(path="/travellers-can-be.png" )}}
 
 [Go back](/home)
 

@@ -2,7 +2,7 @@
 title = "Get Information and Support"
 +++
 
-<img src="/you-are-not-alone.gif" width=800>
+{{ image(path="/you-are-not-alone.gif" )}}
 
 [Go back](/get-support)
 
