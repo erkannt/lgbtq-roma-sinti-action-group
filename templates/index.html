@@ -1,7 +1,64 @@
+{% import "macros.html" as macros %}
 {% extends "base.html" %} {% block content %}
 <header class="index-header">
   <img class="index-header__logo" src="logo.png" alt="">
   <h1 class="index-header__title">National Action Group for LGBTI+ Traveller & Roma Rights</h1>
 </header>
-{% set page = get_page(path="home.md") %} {{ page.content | safe }} {% endblock
-content %}
+<div class="hero-block">
+  {{macros::image(path="/pride-2022.jpg")}}
+  <div class="hero-block__text">
+    <h2>We strive</h2>
+    <p>
+      to empower, support & celebrate Lesbian, Gay, Transgender, Intersex and Queer (LGBTI+) Traveller and Roma and their families.
+    </p>
+    <a class="button button--white" href="/what-we-do">What we do</a>
+  </div>
+</div>
+
+<h2>About us</h2>
+<div class="narrow-side-column">
+  <p>The National Action Group for LGBTI+ Traveller & Roma Rights is a collective that aims to increase the promotion, protection, inclusion and celebration of LGBTI+ Traveller and Roma individuals and their families - within their communities and within Traveller & Roma and LGBTI+ organisations and services.</p>
+
+  <div><a class="button button--green" href="/about">Learn more</a></div>
+</div>
+
+
+<h2>News & Events</h2>
+{% set news = get_section(path="news/_index.md") %}
+{% for post in news.pages | slice(end=3)%}
+  <h3><a href="{{ post.permalink }}">{{ post.title }}</a></h3>
+    <div class="news-header">
+    {{macros::image(path=post.extra.image)}}
+    <p>{{ post.date }}</p>
+    </div>
+    <p>
+      {{ post.extra.summary | safe }}
+    </p>
+{% endfor %}
+
+<a class="button button--blue" href="/news">See all news</a>
+
+<h2>What They Say</h2>
+<p class="quote">
+  Don't be afraid of who you are. Hiding from your true self will inhibit you from being happy. I came out 21 years ago and I've been loving life ever since! Be Proud!
+</p>
+<p class="quote-author">Mark O'Donahue, Gay Traveller</p>
+
+<div class="color-box color-box--green">
+  <h2>Subscribe to our Newsletter</h2>
+  <div class="narrow-side-column ">
+    <p>Send an email to ponke.danker@exchangehouse.ie with the subject "NEWSLETTER".</p>
+    <div>
+      <a class="button button--white" href="mailto:ponke.danker@exchangehouse.ie?subject=NEWSLETTER&body=Please subscribe me to the action group newsletter.">Send email</a>
+    </div>
+  </div>
+</div>
+
+<h2>Our Sponsors</h2>
+<div class=index-logos>
+  {{macros::image(path="/dcediy-logo.png")}}
+  {{macros::image(path="/iherc-logo.png")}}
+</div>
+
+
+{% endblock content %}
