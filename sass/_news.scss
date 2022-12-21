@@ -1,6 +1,9 @@
 .news-header {
   margin-top: 1rem;
   margin-bottom: 2rem;
+  h1 {
+    font-size: var(--step-2);
+  }
   img {
     max-height: 300px;
   }
