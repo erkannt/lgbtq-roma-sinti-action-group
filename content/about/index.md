@@ -40,7 +40,7 @@ If you are an individual not affiliated with the LGBTI+ Traveller & Roma communi
 
 **Ponke Danker** (she/her)
 
-<img src="/ponke.JPG" width=320/>
+{{ image(path="ponke.JPG", width=320)}}
 
 - **Phone**: 01 524 0178 / 087 155 8832
 - **Email**: ponke.danker@exchangehouse.ie

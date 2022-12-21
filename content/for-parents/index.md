@@ -31,7 +31,7 @@ Download our guide on how to support someone coming out as LGBTI+.
 
 [Download here](/guide-support-coming-out.pdf)
 
-<img src="/guide-support-coming-out.jpg" width=400>
+<img src="/guide-support-coming-out.jpg" width=400/>
 
 #### 6 Step Plan  - Support Coming Out
 

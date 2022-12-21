@@ -29,7 +29,7 @@ LGBTI+ Travellers & Roma, our members & allies walk together to celebrate Commun
 
 See our [Pride gallery](/what-we-do/prides) for past parades. 
 
-<img src="/dublin-pride-1.jpg" width=400>
+{{ image(path="/dublin-pride-1.jpg", width=400 ) }}
 
 ##### National Prides
 

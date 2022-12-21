@@ -20,7 +20,7 @@ The report "Unveiling Inequality – The Experiences of LGBTI+ Traveller and Rom
 
 [Download press release](/LGBTI-Traveller-and-Roma-Peer-Research-Press-Release.pdf)
 
-<img src="/report-picture.jpeg" width=400>
+{{ image(path="/report-picture.jpeg", width=400 ) }}
 
 ## About the Peer-Research
 
