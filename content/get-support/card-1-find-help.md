@@ -6,7 +6,6 @@ title = "Find Help & Support"
 
 # Find Help & Support
 
-
 Find support at LGBTI+ Traveller & Roma friendly Traveller & Roma or LGBTI+ organisations who offer a non-judgmental ear to you and provide information...
 
 {{ image(path="/support-lines.png")}}
