@@ -36,16 +36,3 @@
   color: var(--white-color);
   border-radius: 6px;
 }
-
-.menu-page__nav li:last-child {
-  a:link,
-  a:visited {
-    color: var(--green-color);
-
-    &:hover,
-    &:active {
-      color: var(--green-color);
-      border-bottom: 2px solid var(--green-color);
-    }
-  }
-}

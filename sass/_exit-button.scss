@@ -1,0 +1,16 @@
+.exit-button {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+	font-weight: bold;
+	background-color: var(--green-color);
+	padding: 0.5rem 1rem;
+	a {
+		border-bottom: 2px solid transparent;
+		color: var(--white-color);
+		&:hover {
+		color: var(--white-color);
+		border-color: var(--white-color);
+		}
+	}
+}

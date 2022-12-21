@@ -44,19 +44,6 @@
   border-radius: 6px;
 }
 
-.page-header__nav--wide li:last-child {
-  a:link,
-  a:visited {
-    color: var(--green-color);
-
-    &:hover,
-    &:active {
-      color: var(--green-color);
-      border-bottom: 2px solid var(--green-color);
-    }
-  }
-}
-
 @media screen and (min-width: 72ch) {
   .page-header__nav--wide {
     display: block;
