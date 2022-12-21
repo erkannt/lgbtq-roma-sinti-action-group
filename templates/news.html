@@ -3,8 +3,9 @@
 
 {% block content %}
 <a href="/news">Back to all news</a>
-  <h1>{{ page.title }}</a></h1>
-    {{macros::image(path=page.extra.image)}}
-    <p>{{ page.date }}</p>
+  <header class="news-header">
+    {{macros::image(path=page.extra.image, width=300)}}
+    <h1>{{ page.title }}</a></h1>
+  </header>
   {{ page.content | safe }}
 {% endblock content %}

@@ -1,5 +1,14 @@
 .news-header {
-	img {
-		max-height: 300px;
-	}
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  img {
+    max-height: 300px;
+  }
+  @media screen and (min-width: 60ch) {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    background-color: var(--pale-blue-color);
+    padding-right: 1.5rem;
+  }
 }
