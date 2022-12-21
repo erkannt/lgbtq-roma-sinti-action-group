@@ -46,6 +46,10 @@ p a {
   text-decoration: underline;
 }
 
+section {
+  margin-bottom: 3rem;
+}
+
 a:link,
 a:visited {
   color: var(--accent-color);
