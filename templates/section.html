@@ -1,16 +1,18 @@
 {% import "macros.html" as macros %}
 {% extends "base.html" %}
-
 {% block content %}
 <h1>{{ section.title }}</h1>
-{% for post in section.pages %}
-  <h2><a href="{{ post.permalink }}">{{ post.title }}</a></h2>
-    <div class="news-header">
-    {{macros::image(path=post.extra.image)}}
-    <p>{{ post.date }}</p>
-    </div>
-    <p>
-      {{ post.extra.summary | safe }}
-    </p>
+<ul class="card-list">
+  {% for post in section.pages %}
+  <li class="card">
+    <a href="{{ post.permalink }}">
+      {{macros::image(path=post.extra.image)}}
+      <div class="card__text_wrapper">
+        <span class="card__title">{{ post.title }}</span>
+        <p class="card__summary">{{ post.extra.summary | markdown | safe }}</p>
+      </div>
+    </a>
+  </li>
 {% endfor %}
+</ul>
 {% endblock content %}
