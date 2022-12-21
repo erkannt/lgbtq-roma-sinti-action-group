@@ -1,4 +1,4 @@
-{% macro image(path, type="text") %}
-{% set image = resize_image(path=path, width=900, op="fit_width") %}
+{% macro image(path, width=900) %}
+{% set image = resize_image(path=path, width=width, op="fit_width") %}
 <img src="{{ image.url }}" />
 {% endmacro input %}

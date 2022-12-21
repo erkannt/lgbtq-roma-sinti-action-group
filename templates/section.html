@@ -6,7 +6,7 @@
   {% for post in section.pages %}
   <li class="card">
     <a href="{{ post.permalink }}">
-      {{macros::image(path=post.extra.image)}}
+      {{macros::image(path=post.extra.image, width=300)}}
       <div class="card__text_wrapper">
         <span class="card__title">{{ post.title }}</span>
         <p class="card__summary">{{ post.extra.summary | markdown | safe }}</p>
